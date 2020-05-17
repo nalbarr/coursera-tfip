@@ -21,9 +21,9 @@ This is main repository to group the my course work as part of Deeplearning.ai -
 
 ### Course work
 * [coursera-tfip-course1](https://github.com/nalbarr/coursera-tfip-course1)
-* [coursera-tfip-course1](https://github.com/nalbarr/coursera-tfip-course2)
-* [coursera-tfip-course1](https://github.com/nalbarr/coursera-tfip-course3)
-* [coursera-tfip-course1](https://github.com/nalbarr/coursera-tfip-course4)
+* [coursera-tfip-course2](https://github.com/nalbarr/coursera-tfip-course2)
+* [coursera-tfip-course3](https://github.com/nalbarr/coursera-tfip-course3)
+* [coursera-tfip-course4](https://github.com/nalbarr/coursera-tfip-course4)
 
 
 ### Related
