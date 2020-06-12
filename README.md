@@ -3,7 +3,7 @@
 This is main repository to group the my course work as part of Deeplearning.ai - TensorFlow In Practice Specialization by [deeplearning.ai](https://www.coursera.org/specializations/tensorflow-in-practice).
 
 ### Instructors
-- Laurance Moroney, AI Advocate, Google
+- Laurence Moroney, AI Advocate, Google
 
 ### Specialization
 - Course 1:  [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow)
