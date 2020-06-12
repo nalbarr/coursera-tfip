@@ -1,5 +1,5 @@
 # coursera-tfip
-coursera-tfip
+deeplearning.ai - [TensorFlow In Practice Specialization](https://www.coursera.org/specializations/tensorflow-in-practice)
 
 This is main repository to group the my course work as part of Deeplearning.ai - TensorFlow In Practice Specialization by [deeplearning.ai](https://www.coursera.org/specializations/tensorflow-in-practice).
 
