@@ -13,10 +13,10 @@ This is main repository to group the my course work as part of Deeplearning.ai -
 
 ### Eureka! moment
 #### If you plan to only audit class, one thing to focus on
-* TBD
+* The transition from Course 2 and Course 3 was key for my learning.  Image classication has been the workhorse of explaining DL for CNN architecture and representation learning - however the transition to natural language via documents, paragraphs, words, etc. using similar themes is essential before moving on to RNNs and sequence models.
 
 ### Key Takeaways
-* Unlike previous Andrew Ng courses that were driven with plain Jupyter notebooks, it was refreshing to quickly browse, learn and apply concepts using Google Colab notebooks.  I felt way more productive (and it is very easy to save you work for reference later).
+* Unlike previous Andrew Ng courses that were driven with plain Jupyter notebooks, it was refreshing to quickly browse, learn and apply concepts using Google Colab notebooks without being constrained by autograders or having to setup local environments.  I felt way more productive (and it is very easy to save you work for reference later).
 
 ### Course work
 * [coursera-tfip-course1](https://github.com/nalbarr/coursera-tfip-course1)
