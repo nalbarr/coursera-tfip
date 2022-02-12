@@ -24,11 +24,7 @@ This is main repository to group the my course work as part of Deeplearning.ai -
 * [coursera-tfip-course3](https://github.com/nalbarr/coursera-tfip-course3)
 * [coursera-tfip-course4](https://github.com/nalbarr/coursera-tfip-course4)
 
-
 ### Related
 * Coursera, Deeplearning.ai: AI For Medicine (https://www.coursera.org/specializations/ai-for-medicine)
 * Coursera, Deeplearning.ai: Deep Learning Specialization (https://www.deeplearning.ai/deep-learning-specialization/)
 * Coursera, Machine Learning (Ng, Stanford) (https://www.coursera.org/learn/machine-learning), (https://github.com/nalbarr/coursera-stanford-machine-learning)
-
-### Future Work
-* TBD
